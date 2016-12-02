@@ -58,3 +58,7 @@ function epicBattle(wizard, enemy, power){
 
 // invoke function w/ object's first key val, monster var, object's third key val
 epicBattle(hero.wizard, monster, hero.power);
+
+/*
+ making a random change to checkout branches
+ */
